@@ -31,5 +31,5 @@
 <br/>
 
 <h1 align="center">Contacts</h1>
-<p align="left"><a href="https://github.com/anteater333">https://github.com/anteater333</a></p>
-<p align="left"><a href="mailto:anteater1056@gmail.com">anteater1056@gmail.com</a></p>
+<p align="center"><a href="https://github.com/anteater333">https://github.com/anteater333</a></p>
+<p align="center"><a href="mailto:anteater1056@gmail.com">anteater1056@gmail.com</a></p>
